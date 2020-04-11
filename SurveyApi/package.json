@@ -8,6 +8,7 @@
     "test": "mocha '**/*.test.ts' --require ts-node/register"
   },
   "dependencies": {
+    "@types/mongodb": "^3.5.5",
     "@types/node": "^13.11.1",
     "http4js": "^5.0.3",
     "mongodb": "^3.5.5",
