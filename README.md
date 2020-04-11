@@ -5,6 +5,7 @@ The project is split into two directories - SurveyApi (back end) and UI (front e
 ## Running the UI
 
 ### `cd ./UI`
+### `yarn`
 ### `yarn start`
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -14,6 +15,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 To run the api requires a local mongoDB instance to be running on your machine details here:<br />
 `https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/`
 ### `cd ../SurveyApi`
+### `yarn`
 ### `yarn start`
 
 
